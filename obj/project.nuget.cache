@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGybMdpJXA4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Документы\\Лабораторные работы\\2_год\\4_семестр\\BackEnd\\3\\BackEnd_Нагорнов_А.В._ЛР3\\BackEnd_Нагорнов_А.В._ЛР3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
