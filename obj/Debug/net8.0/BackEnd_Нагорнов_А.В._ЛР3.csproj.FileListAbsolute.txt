@@ -16,3 +16,4 @@ C:\Users\Admin\OneDrive\Документы\Лабораторные работы
 C:\Users\Admin\OneDrive\Документы\Лабораторные работы\2_год\4_семестр\BackEnd\3\BackEnd_Нагорнов_А.В._ЛР3\obj\Debug\net8.0\BackEnd_Нагорнов_А.В._ЛР3.pdb
 C:\Users\Admin\OneDrive\Документы\Лабораторные работы\2_год\4_семестр\BackEnd\3\BackEnd_Нагорнов_А.В._ЛР3\obj\Debug\net8.0\BackEnd_Нагорнов_А.В._ЛР3.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Документы\Лабораторные работы\2_год\4_семестр\BackEnd\3\BackEnd_Нагорнов_А.В._ЛР3\obj\Debug\net8.0\ref\BackEnd_Нагорнов_А.В._ЛР3.dll
+C:\Users\Admin\OneDrive\Документы\Лабораторные работы\2_год\4_семестр\BackEnd\3\BackEnd_Нагорнов_А.В._ЛР3\obj\Debug\net8.0\BackEnd_Нагорнов_А.В._ЛР3.sourcelink.json

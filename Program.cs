@@ -17,8 +17,8 @@ namespace BackEnd_Нагорнов_А.В._ЛР3
             ServiceCollection services = new ServiceCollection(); //Создание коллекции для хранения сервисов.
             services.AddTransient<ILogService,SimpleLogService>(); //Добавление сервиса в коллекцию.
             using var serviceProvider = services.BuildServiceProvider(); //Создаёт ServiceProvider, в котором будут храниться вызываемые сервисы.
-            SimpleLogService? simpleLogService= serviceProvider.GetService<SimpleLogService>(); //Создаём переменную и присваеваем ей значение сервиса.
-            simpleLogService.Log("Логирование."); //Вызываем метод Log сервиса.
+            ILogService? logService= serviceProvider.GetService<ILogService>(); //Создаём переменную и присваиваем ей значение сервиса.
+            logService.Log("Логирование."); //Вызываем метод Log сервиса.
         } 
     }
 }
